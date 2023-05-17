@@ -1,0 +1,46 @@
+_repo: Elfin-Land_70491
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Satterlee, Walter
+    alias: Saterlee, Walter
+    birthdate: 1844
+    deathdate: 1908
+    gutenberg_agent_id: '55770'
+    url: http://www.gutenberg.org/2009/agents/55770
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Satterlee
+creator:
+  author:
+    agent_name: Pollard, Josephine
+    birthdate: 1834
+    deathdate: 1892
+    gutenberg_agent_id: '38122'
+    url: http://www.gutenberg.org/2009/agents/38122
+    wikipedia: https://en.wikipedia.org/wiki/Josephine_Pollard
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70491'
+  lccn: '16003875'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001111308
+pgterms:marc905: 20210718150528pollard
+pgterms:marc906: '1882'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: $aUnited States :$bGeorge W. Harlan & Co., $c1882.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, American'
+- !lcsh 'Animals -- Juvenile poetry'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcsh 'Elves -- Juvenile poetry'
+- !lcc 'PZ'
+- GITenberg
+title: Elfin Land
+url: http://www.gutenberg.org/ebooks/70491
